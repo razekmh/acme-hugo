@@ -10,8 +10,9 @@ jobs:
   deploy:
     runs-on: ubuntu-24.04
     permissions:
-      content: write
+      contents: write
       pull-requests: write
+      pages: write
 
     steps:
       - uses: actions/checkout@v3
