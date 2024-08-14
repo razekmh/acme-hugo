@@ -18,3 +18,7 @@ menu:
       url: /contact
       weight: 200
 
+  
+markup:
+  highlight:
+    lineNos: true
