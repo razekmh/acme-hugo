@@ -3,3 +3,4 @@ languageCode: en-us
 title: Acme Corporation
 theme: PaperMod
 enableEmoji: true
+enableGitInfo: true #automatic setting for the Git author dates for the content
