@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://razekmh.github.io/acme-hugo/sitemap.xml
